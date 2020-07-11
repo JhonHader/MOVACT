@@ -1,22 +1,4 @@
 # MOVACT
-*                  Developed by:                                               *
-*                                                                              *
-*                            Jhon Hader Fernandez                              *
-*                     - jhon_fernandez@javeriana.edu.co                        *
-*                                                                              *
-*                            Laura Katherine Henao                             *
-*                        - laurahenao@javeriana.edu.co                         *
-*                                                                              *
-*                           Juan Sebastian Palacios                            *
-*                      - palacios_juan@javeriana.edu.co                        *
-*                                                                              *
-*                                                                              *
-*                       Pontificia Universidad Javeriana                       *
-*                            Bogota DC - Colombia                              *
-*                                  Jul - 2020                                  *
-*                                                                              *
-*******************************************************************************/
-
                                 MOVACT project
 
 En la libreria "communicate" se encuentra la MEF implementada en la función 
