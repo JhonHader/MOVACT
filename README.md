@@ -1,9 +1,9 @@
 # MOVACT
 
   Desarrollado por:
-                 Jhon Hader Fernandez  
-                 Laura Katherine Henao
-                Juan Sebastian Palacios
+               -  Jhon Hader Fernandez  
+               -  Laura Katherine Henao
+               - Juan Sebastian Palacios
 
 
 En la libreria "communicate" se encuentra la MEF implementada en la función 
