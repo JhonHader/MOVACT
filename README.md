@@ -9,3 +9,5 @@ La carpeta "mcc_generated_files" contiene los códigos fuentes de configuración
 y control de periféricos y módulos, para más información ver documento de diseño 
 de software.
 
+Inicialmente se resalta que todos los códigos se encuentran muy documentado y
+legible.
