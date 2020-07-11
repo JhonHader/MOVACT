@@ -1,6 +1,7 @@
 # MOVACT
 
   Desarrollado por:
+  
                -  Jhon Hader Fernandez  
                -  Laura Katherine Henao
                - Juan Sebastian Palacios
