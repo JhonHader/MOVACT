@@ -1,5 +1,4 @@
 # MOVACT
-                                MOVACT project
 
 En la libreria "communicate" se encuentra la MEF implementada en la función 
 "communicate", además de otras funciones internas necesarias.
